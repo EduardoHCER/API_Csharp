@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ESjol7pScBlza+lHGG5W7o3QoHmJFxv2AzzmCd/O6LU=",
+  "Source": "api_Despesas",
+  "BasePath": "_content/api_Despesas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
